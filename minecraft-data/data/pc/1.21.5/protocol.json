@@ -408,10 +408,6 @@
                           ]
                         }
                       ]
-                    },
-                    {
-                      "name": "showTooltip",
-                      "type": "bool"
                     }
                   ]
                 ],
