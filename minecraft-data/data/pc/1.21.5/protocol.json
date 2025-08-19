@@ -2579,7 +2579,7 @@
       "entityMetadataLoop",
       {
         "endVal": 255,
-        "type": "entityMetadataEntry"
+        "type": "i8"
       }
     ],
     "tags": [
