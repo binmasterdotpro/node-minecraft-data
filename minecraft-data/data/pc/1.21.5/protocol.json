@@ -2406,7 +2406,7 @@
                 "14": "block_pos",
                 "15": "optional_block_pos",
                 "16": "direction",
-                "17": "optional_living_entity_reference",
+                "17": "optional_uuid",
                 "18": "optional_global_pos",
                 "19": "compound_tag",
                 "20": "villager_data",
